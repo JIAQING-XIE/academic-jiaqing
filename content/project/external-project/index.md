@@ -6,7 +6,7 @@ tags:
 date: "2020-02-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://www.researchgate.net/profile/Jiaqing_Xie/projects
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
