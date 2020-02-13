@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-01-10"
   date_end = ""
   description = """
-  Applications and improvements on Graph Neural Network, Supervised by Zhitao(Rex) Ying, Stanford University
+  Applications and improvements on Graph Neural Network, supervised by Zhitao(Rex) Ying, Stanford University
   """
 
 [[experience]]
@@ -36,6 +36,6 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2019-07-08"
   date_end = "2019-08-09"
-  description = """Applying supervised machine learning algorithms to predict human comfort, a pinoneering work in the thermal comfort domain"""
+  description = """Applying supervised machine learning algorithms to predict human comfort, a pinoneering work in the thermal comfort domain. The summer research is supervised by Dr. Maohui Luo, Center for Built Environment, University of California Berkeley."""
 
 +++
