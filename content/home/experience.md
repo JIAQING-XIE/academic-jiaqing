@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Applications and improvements on Graph Neural Network
+  
   Responsibilities include:
   
   * Analysing
