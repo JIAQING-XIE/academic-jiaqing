@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "stack-overflow"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Debugging"
   description = "90%"  
   
