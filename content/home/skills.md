@@ -32,4 +32,10 @@ subtitle = ""
   name = "Critical Thinking"
   description = "90%"
 
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Linux"
+  description = "70%"
+
 +++
