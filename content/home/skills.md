@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "python"
+  name = "Python"
   description = "95%"
   
 [[feature]]
@@ -27,9 +27,9 @@ subtitle = ""
   description = "90%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "brain"
+  icon_pack = "fab"
+  name = "Critical Thinking"
+  description = "90%"
 
 +++
