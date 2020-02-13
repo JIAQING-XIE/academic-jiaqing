@@ -5,7 +5,7 @@ authors:
 - admin
 - Yichen Yan
 - ..
-date: "2015-09-01T00:00:00Z"
+date: "2020-01-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -38,7 +38,7 @@ url_pdf: https://www.researchgate.net/publication/338538653_Comparing_machine_le
 url_code: https://github.com/JIAQING-XIE/UCB-summer-research-2019-at-CBE
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://www.researchgate.net/project/Machine-Learning-applications-on-human-thermal-comfort
 url_slides: ''
 url_source: ''
 url_video: ''
