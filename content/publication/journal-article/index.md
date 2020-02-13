@@ -7,7 +7,7 @@ date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +16,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Energy Buildings "
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Predicting building occupants’ thermal comfort via machine learning (ML) is a hot research topic. Many algorithms and data processing methods have been applied to predict thermal comfort indices in different contexts. But few studies have systematically investigated how different algorithms and data processing methods can influence the prediction accuracy. In this study, we first summarized the recent literature from perspectives of predicted comfort indices, algorithms applied, input features, data sources, sample size, training proportion, predicting accuracy, etc. Then, we applied nine ML algorithms and three data sampling methods to predict the 3-point and 7-point thermal sensation vote (TSV) in ASHRAE Comfort Database II. The results show that with an accuracy of 66.3% and 61.1% for 3-point and 7-point TSV respectively, Random Forest (RF) has the best performance among the tested algorithms. Compared to the Predicted Mean Vote (PMV) model, ML TSV models generally have higher accuracy in TSV prediction. Based on feature importance analysis, the air temperature, humidity, clothing, air velocity, age, and metabolic rate are the top six important features for TSV prediction. The RF algorithm can achieve 63.6% overall accuracy in TSV prediction with the top three features, which is only 2.6% lower than involving 12 input features. Further, this paper addressed other common considerations in ML comfort model establishment such as tuning hyperparameters, splitting of training and testing data, and encoding methods. We also provided Python and R programming codes and packages as appendixes, which can be a good reference for future studies.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Supervised machine learning algorithms for predicting human thermal comfort
 
 tags:
 - Source Themes
@@ -31,8 +32,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
+url_pdf: https://www.researchgate.net/publication/338538653_Comparing_machine_learning_algorithms_in_predicting_thermal_sensation_with_ASHRAE_Comfort_Database_II
+url_code: https://github.com/JIAQING-XIE/UCB-summer-research-2019-at-CBE
 url_dataset: ''
 url_poster: ''
 url_project: ''
