@@ -39,10 +39,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 's2001696@ed.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jiaqingxie
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Tfg7A2AAAAAJ&hl=en
@@ -65,4 +65,6 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate student(Year 2) at The University of Edinburgh. My research interests include deep learning, gragh neural network and computer science cross-disciplinary projects
+I am an undergraduate student(Year 2) at The University of Edinburgh. My research interests include deep learning, gragh neural network and computer science cross-disciplinary projects. 
+
+Technologies make people a better life.
