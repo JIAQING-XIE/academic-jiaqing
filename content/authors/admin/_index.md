@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate student at The University of Edinburgh. My research interests include deep learning, gragh neural network and computer science cross-disciplinary projects
+I am an undergraduate student(Year 2) at The University of Edinburgh. My research interests include deep learning, gragh neural network and computer science cross-disciplinary projects
