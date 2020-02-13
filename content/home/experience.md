@@ -17,14 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Gragh Neural Network Research"
+  title = "Student Researcher"
   company = "The University of Edinburgh"
   company_url = ""
   location = "Edinburgh"
   date_start = "2020-01-10"
   date_end = ""
   description = """
+  Applications and improvements on Graph Neural Network
   Responsibilities include:
   
   * Analysing
