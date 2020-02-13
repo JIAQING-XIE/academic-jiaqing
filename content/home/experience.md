@@ -26,14 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-01-10"
   date_end = ""
   description = """
-  Applications and improvements on Graph Neural Network
-  
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  Supervised by Zhitao(Rex) Ying, Stanford University
+  Applications and improvements on Graph Neural Network, Supervised by Zhitao(Rex) Ying, Stanford University
   """
 
 [[experience]]
