@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "brain"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Critical Thinking"
   description = "90%"
 
