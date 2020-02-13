@@ -1,8 +1,10 @@
 ---
-title: "An example journal article"
+title: "Comparing machine learning algorithms in predicting thermal sensation with ASHRAE Comfort Database II"
 authors:
+- Maohui Luo
 - admin
-- Robert Ford
+- Yichen Yan
+- ..
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
