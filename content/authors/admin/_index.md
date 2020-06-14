@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include deep learning, graph neural network and computer science cross-disciplinary subjects.
 
 interests:
-- Artificial Intelligence
+- Machine Learning Theory
 - Graph Neural Network
 - Knowledge Graph
 - Natural Language Processing
@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate student(Year 3) at The University of Edinburgh. My research interests include deep learning, gragh neural network and computer science cross-disciplinary projects. 
+I am an junior student at The University of Edinburgh. My research interests include deep learning, gragh neural network and computer science cross-disciplinary projects. 
 
 Technology makes people a better life.
