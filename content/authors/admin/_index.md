@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-I am an junior student at The University of Edinburgh. My research interests include deep learning, gragh neural network and computer science cross-disciplinary projects. 
+I am a junior student at The University of Edinburgh. My research interests include deep learning, gragh neural network and computer science cross-disciplinary projects. 
 
 Technology makes people a better life.
