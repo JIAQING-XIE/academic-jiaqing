@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[experience]]
+  title = "Student Researcher && Team Leader"
+  company = "Supervised by Manolis Kellis from MIT"
+  company_url = ""
+  location = "Massachusetts Ave, Cambridge, MA"
+  date_start = "2020-07-12"
+  date_end = "2020-08-21"
+  description = """Using gene expression variational autoencoder(geneVAE) and junction tree variational autoencoder(JTVAE) to predict drug response"""
+
+
 [[experience]]
   title = "Student Researcher"
   company = "The University of Edinburgh"
