@@ -32,7 +32,7 @@ education:
     institution: The University of Edinburgh
     year: 08/2019 - now
   - course: BEng in Electronics and Electrical Engineering
-    institution: The University of Edinburgh
+    institution: Huazhong University of Science and Technology
     year: 09/2017 - 07/2019
     
     
