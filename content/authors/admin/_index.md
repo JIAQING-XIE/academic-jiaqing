@@ -24,13 +24,18 @@ interests:
 - Machine Learning Theory
 - Graph Neural Network
 - Knowledge Graph
-- Natural Language Processing
+- Machine learning with applications
 
 education:
   courses:
   - course: BEng in Electronics and Computer Science
     institution: The University of Edinburgh
-    year: 2019 - now
+    year: 08/2019 - now
+  - course: BEng in Electronics and Electrical Engineering
+    institution: The University of Edinburgh
+    year: 09/2017 - 07/2019
+    
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
